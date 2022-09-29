@@ -2,7 +2,7 @@
 
 <img src="./images/img2.png" width=350px>
 
-[🔗 Clique aqui para acessar](https://alineviana.github.io/desafio-rocketseat/)
+[🔗 Clique aqui para acessar](https://alineviana.github.io/html-css/)
 
 <br>
 
