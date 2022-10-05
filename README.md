@@ -1,8 +1,8 @@
 # Projeto 01 | Programa Explorer da Rocketseat
 
-<img src="./images/img2.png" width=350px>
+<img src="./images/img2.png" width=450px>
 
-[🔗 Clique aqui para acessar](https://alineviana.github.io/desafio-rocketseat/)
+[🔗 Clique aqui para acessar](https://alineviana.github.io/html-css/)
 
 <br>
 
@@ -16,4 +16,4 @@
 
 > 📫 Contato
 
- - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-makowski/)](https://www.linkedin.com/in/alinecviana/) 
+ - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alinecviana/)](https://www.linkedin.com/in/alinecviana/) 
