@@ -1,6 +1,6 @@
 # Projeto 01 | Programa Explorer da Rocketseat
 
-<img src="./images/img2.png" width=450px>
+<img src="./images/img.png" width=450px>
 
 [🔗 Clique aqui para acessar](https://alineviana.github.io/html-css/)
 
